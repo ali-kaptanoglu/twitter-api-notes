@@ -24,3 +24,12 @@ if (is_string($result)) {
 }
  
  --------------
+
+
+.enhanced-mini-profile .mini-profile .profile-summary {
+  background-image: url(https://pbs.twimg.com/profile_banners/2622731/1401943819/mobile);
+}
+The number after profile_banners/ is the account's Twitter user ID, which won't change if the account's screen name is changed. Here, 2622731 is my personal Twitter ID. (Expect to see much later numbers for more recent accounts; mine is quite old.)
+
+
+-------------------
